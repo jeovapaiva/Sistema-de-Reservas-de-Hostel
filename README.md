@@ -9,7 +9,7 @@ PEX1263 - PROJETO DETALHADO DE SOFTWARE
 
 
 
-Relatório de Levantamento de Requisitos para o Sistema de Reservas de Hostel
+Relatório de Levantamento de Requisitos para o Sistema de Reservas de Hostel.
 
 Introdução
 
