@@ -149,27 +149,30 @@ https://docs.google.com/forms/d/16wjBvHwxRdQrKtDObNe1Z- uZBGmqyg_f9AMzEC3hfQM/ed
 Pergunta	Tipo de Resposta
 
     1 Como você costuma fazer sua reserva em um hostel/pousada?
+    
     2 Você preferiria fazer a reserva de forma online, caso estivesse disponível?
+    
     3 O que mais lhe agradaria em um sistema online de reservas?
+    
 
-    4 Quais recursos você considera essenciais em um sistema de reservas online?
-Múltipla escolha ( )Telefone ( )Presencial ( )Online via e-mail (  )Outro
-( )Sim	( )Não
+    4 Quais recursos você considera essenciais em um sistema de reservas online? Múltipla escolha ( )Telefone ( )Presencial ( )Online via e-mail (  )Outro ( )Sim	( )Não
 
 Pergunta aberta
+
 Múltipla escolha: ( )Pagamento online ( )Escolha de quarto ( )Visualização de disponibilidade
 ( )Outro
-    5 Você se sente confortável em realizar pagamentos online?
-( )Sim	( )Não
+
+    5 Você se sente confortável em realizar pagamentos online? ( )Sim	( )Não
+
     6 Você gostaria de receber a senha do armário ( )Sim	( )Não diretamente após a confirmação da reserva?
-    7 Com que frequência você reserva hospedagem em hostels?
-Múltipla escolha:	( )Frequentemente ( )Ocasionalmente ( )Raramente
+    
+    7 Com que frequência você reserva hospedagem em hostels?Múltipla escolha:	( )Frequentemente ( )Ocasionalmente ( )Raramente
+    
     8 Qual é sua maior dificuldade no processo de Pergunta aberta reserva atualmente?
-    9 Você utiliza mais o celular ou o computador Múltipla escolha: ( )Celular ( )Computador
-para realizar suas reservas?
-    10 Quais métodos de pagamento online você prefere utilizar?
-( )Ambos
-Múltipla escolha: ( )Cartão de crédito ( )Cartão de débito ( )PIX ( )PayPal ( )Outro
+    
+    9 Você utiliza mais o celular ou o computador Múltipla escolha: ( )Celular ( )Computador para realizar suas reservas?
+    
+    10 Quais métodos de pagamento online você prefere utilizar? ( )Ambos Múltipla escolha: ( )Cartão de crédito ( )Cartão de débito ( )PIX ( )PayPal ( )Outro
 Relatório sobre Pesquisa de Requisitos para Sistema de Reservas de Hostel e pousada
 Este relatório apresenta os resultados de uma pesquisa realizada com 112 participantes sobre o processo de reservas em hostel/pousada e suas preferências em relação a um sistema de reservas online. O objetivo desta pesquisa foi compreender como os usuários fazem reservas, suas dificuldades e expectativas em relação à automação do processo.
 
