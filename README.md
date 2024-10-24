@@ -10,13 +10,18 @@ PEX1263 - PROJETO DETALHADO DE SOFTWARE
 
 
 Relatório de Levantamento de Requisitos para o Sistema de Reservas de Hostel
+
 Introdução
+
 Este relatório detalha o processo de levantamento de requisitos para o desenvolvimento de um sistema de reservas para um hostel e pousadas. O sistema visa modernizar e automatizar as operações do hostel/pousada, substituindo o controle manual de reservas e chaves por um sistema eletrônico eficiente e de fácil uso. As informações foram obtidas por meio de reuniões, entrevistas com os funcionários e donos do hostel, além de pesquisas com os clientes para entender melhor suas expectativas e necessidades.
 
 Conhecimento Inicial sobre a pousada
+
 A pousada já possui um sistema de reservas manual e busca uma solução moderna que permita:
+
     • Cadastro de hóspedes e gerenciamento de reservas: O sistema deve possibilitar que tanto os funcionários quanto os clientes façam reservas online, visualizem quartos disponíveis e façam o cadastro dos hóspedes com informações detalhadas.
     • Geração de senhas automáticas para armários: O hostel utiliza armários para guardar
+    
 chaves dos quartos. Cada armário é protegido por uma senha, que atualmente é gerada manualmente. O sistema deve automatizar esse processo, gerando senhas eletrônicas e facilitando a liberação de chaves para os clientes após a confirmação do pagamento.
 Primeira Reunião: Entrevista Inicial
 Formato:
